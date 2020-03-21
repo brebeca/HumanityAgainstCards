@@ -16,5 +16,11 @@
                          -give point 
 7>Management cont: -edit cont info 
                    -games history
+                   
+                   
+                   
+                   
+                   
+                   
 
 
